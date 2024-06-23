@@ -17,6 +17,7 @@
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://www.victoryinfotech.com/wp-content/uploads/2021/09/Untitled-design-30.png" alt="Kotlin" width="45" height="45"/></a>
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://www.sommelierdecafe.com/wp-content/uploads/2009/06/java-logo1-1.png" alt="Java" width="45" height="45"/></a>
 <a href="https://en.wikipedia.org/wiki/COBOL" target="_blank" rel="noreferrer"><img src="https://static.javatpoint.com/tutorial/cobol/images/cobol-tutorial.png" alt="COBOL" width="45" height="45"/></a>
+<a href="https://nightingalehq.ai/knowledgebase/glossary/what-is-jupyter/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:432/format:webp/1*Q7aXwVo1Xc2Eeb09EUHoMA.png" alt="Jupyter" width="45" height="45"/></a>
 
 <!-- My GIF -->
 <img src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="GIF" width=100% height="auto">
